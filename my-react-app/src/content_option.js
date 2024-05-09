@@ -66,8 +66,8 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://raw.githubusercontent.com/Jack-Lowe-7/site/main/my-react-app/src/assets/images/StampWorks-Cover.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://raw.githubusercontent.com/Jack-Lowe-7/site/main/my-react-app/src/assets/images/StampWorks-Cover.jpg",
+        description: "StampWorks - Project with the Department of Work and Pensions",
         link: "#",
     },
 ];
