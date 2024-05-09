@@ -66,7 +66,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "/assets/StampWorks-Cover.png",
+        img: "https://raw.githubusercontent.com/Jack-Lowe-7/site/main/my-react-app/src/assets/images/StampWorks-Cover.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
