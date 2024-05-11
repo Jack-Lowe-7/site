@@ -4,6 +4,8 @@ import { VscGrabber, VscClose } from "react-icons/vsc";
 import { Link } from "react-router-dom";
 import { logotext ,socialprofils } from "../content_option";
 import Themetoggle from "../components/themetoggle";
+import { Sling as Hamburger } from 'hamburger-react'
+
 
 const Headermain = () => {
   const [isActive, setActive] = useState("false");
@@ -24,9 +26,8 @@ const yearNow = new Date().getFullYear();
           </Link>
           <div className="d-flex align-items-center">
           <Themetoggle />
-          <button className="menu__button  nav_ac" onClick={handleToggle}>
-            {!isActive ? <VscClose /> : <VscGrabber />}
-          </button>
+          <Hamburger className="menu__button  nav_ac" toggled={isActive ? true : false} toggle={setActive}>
+          </Hamburger>
           
           </div>
         </div>
