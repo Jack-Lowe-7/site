@@ -49,6 +49,10 @@ const skills = [{
         name: "CSS",
         value: 60,
     },
+    {
+        name: "Javascript",
+        value: 10,
+    },
 ];
 
 const services = [{
