@@ -78,17 +78,13 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "jack@jacklowe.dev",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    description: "Feel free to get in touch with me through any of the channels available here.",
 };
 
 const socialprofils = {
     github: "https://github.com/Jack-Lowe-7/",
     linkedin: "https://linkedin.com/in/jacklowe7",
+    email: "mailto:jack@jacklowe.dev",
 };
 export {
     meta,

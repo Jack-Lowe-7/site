@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import {
+  FaEnvelope,
   FaGithub,
   FaLinkedin,
 } from "react-icons/fa";
@@ -21,6 +22,13 @@ export const Socialicons = (params) => {
           <li>
             <a href={socialprofils.linkedin}>
               <FaLinkedin />
+            </a>
+          </li>
+        )}
+        {socialprofils.email && (
+          <li>
+            <a href={socialprofils.email}>
+              <FaEnvelope />
             </a>
           </li>
         )}

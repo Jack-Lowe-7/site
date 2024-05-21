@@ -56,8 +56,9 @@ const Headermain = () => {
             <div className="d-flex">
               <a href={socialprofils.linkedin}>Linkedin</a>
               <a href={socialprofils.github}>Github</a>
+              <a href={socialprofils.email}>Email</a>
             </div>
-            <p className="copyright m-0">copyright &copy; {yearNow} {logotext}</p>
+            <p className="copyright m-0">Words copyright &copy; {yearNow} {logotext} - Template created by Ubaida Mutlaq</p>
           </div>
         </div>
       </header>
