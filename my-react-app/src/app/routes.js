@@ -27,6 +27,9 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/portfolio/stampworks" element={<StampWorks />} />
         <Route path="/contact" element={<ContactUs />} />
         <Route path="*" element={<Home />} />
+        <Route path="/awards/FSA/FAaIT">
+          <Redirect to="/files/Food Allergy and Intolerance Training FSA.pdf" />
+        </Route>
       </Routes>
     </CSSTransition>
   </TransitionGroup>
