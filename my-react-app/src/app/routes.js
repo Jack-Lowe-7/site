@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Routes, Redirect} from "react-router-dom";
+import { Route, Routes, Navigate} from "react-router-dom";
 import withRouter from "../hooks/withRouter"
 import { Home } from "../pages/home";
 import { Portfolio } from "../pages/portfolio";
@@ -27,9 +27,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/portfolio/stampworks" element={<StampWorks />} />
         <Route path="/contact" element={<ContactUs />} />
         <Route path="*" element={<Home />} />
-        <Route path="/awards/FSA/FAaIT">
-          <Redirect to="/files/Food Allergy and Intolerance Training FSA.pdf" />
-        </Route>
+        <Route path="/awards/FSA/FAaIT" element={<Navigate to="/files/Food Allergy and Intolerance Training FSA.pdf" />} />
       </Routes>
     </CSSTransition>
   </TransitionGroup>
