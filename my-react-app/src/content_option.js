@@ -11,13 +11,13 @@ const introdata = {
         second: "I code cool projects",
         third: "cybersecurity enthusiast",
     },
-    description: "Welcome to my portfolio - while my repertoire is not as fleshed out as others, it's constantly growing, and stands as a testemant to my persistant personal growth.",
+    description: "Welcome to my portfolio - while my experience is not as large as others, it's constantly growing and improving.",
     your_img_url: "https://github.com/Jack-Lowe-7/site/blob/main/my-react-app/src/assets/images/Me.png?raw=true",
 };
 
 const dataabout = {
     title: "A little bit about myself",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I'm Jack, I'm studying A-Levels in Computer Science, Maths & Psychology at North East Futures UTC. I'm after a career in Computer Science, more specifically in Cybersecurity.",
 };
 
 //const worktimeline = [{
@@ -42,6 +42,10 @@ const skills = [{
         value: 90,
     },
     {
+        name: "SQL",
+        value: 80,
+    },
+    {
         name: "HTML",
         value: 80,
     },
@@ -49,23 +53,15 @@ const skills = [{
         name: "CSS",
         value: 60,
     },
-    {
-        name: "Javascript",
-        value: 10,
-    },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Volenteering - The Scout Association",
+        description: "I volunteer at my local Scout group every Friday as a Young Leader, helping to plan and lead fun activities, boosting my leadership, teamwork, and communication skills. It's a really rewarding way to give back and make some cool memories!",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Duke of Edinburgh's Award (Currently working on Silver)",
+        description: "I'm currently working towards completing my Silver DofE award with Explorers, having earned my bronze in 2022. On our expedition, we endured the 2nd worst weather our assessor had seen in 35 years but held strong and completed it.",
     },
 ];
 
