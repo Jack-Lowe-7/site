@@ -30,7 +30,7 @@ export const About = () => {
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <div>
-              <p>{dataabout.aboutme}</p>
+              <p>I'm Jack, I'm studying A-Levels in Computer Science, Maths & Psychology at North East Futures UTC. I'm after a career in Computer Science, more specifically in Cybersecurity. <br/> <br/>Thanks to switching to UTC I have had some amazing opportunities such as participating in a UK wide capture the flag competition ran by the National Centre for Cybersecurity in which we took home first place!</p>
             </div>
           </Col>
         </Row>
