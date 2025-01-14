@@ -4,6 +4,7 @@ import withRouter from "../hooks/withRouter"
 import { Home } from "../pages/home";
 import { Portfolio } from "../pages/portfolio";
 import { StampWorks } from "../pages/portfolio/StampWorks";
+import { Site } from "../pages/portfolio/site";
 import { ContactUs } from "../pages/contact";
 import { About } from "../pages/about";
 import { Socialicons } from "../components/socialicons";
@@ -25,6 +26,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/about" element={<About />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/portfolio/stampworks" element={<StampWorks />} />
+        <Route path="/portfolio/site" element={<Site />} />
         <Route path="/contact" element={<ContactUs />} />
         <Route path="*" element={<Home />} />
       </Routes>
