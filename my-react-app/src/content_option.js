@@ -60,8 +60,8 @@ const services = [{
         description: "I volunteer at my local Scout group every Friday as a Young Leader, helping to plan and lead fun activities, boosting my leadership, teamwork, and communication skills. It's a really rewarding way to give back and make some cool memories!",
     },
     {
-        title: "Duke of Edinburgh's Award (Currently working on Silver)",
-        description: "I'm currently working towards completing my Silver DofE award with Explorers, having earned my bronze in 2022. On our expedition, we endured the 2nd worst weather our assessor had seen in 35 years but held strong and completed it.",
+        title: "Duke of Edinburgh's Award (Currently working on Gold)",
+        description: "I'm currently working towards completing my Gold DofE award with Explorers, having earned my bronze in 2022 and almost finsished the end of silver. On our silver expedition, we endured the 2nd worst weather our assessor had seen in 35 years but held strong and completed it.",
     },
 ];
 
@@ -70,6 +70,11 @@ const dataportfolio = [{
         description: "StampWorks - Project with the Department of Work and Pensions",
         link: "stampworks",
     },
+{
+    img: "https://raw.githubusercontent.com/Jack-Lowe-7/site/main/my-react-app/src/assets/images/favicon.png",
+    description: "This website!",
+    link : "site",
+},
 ];
 
 const contactConfig = {
