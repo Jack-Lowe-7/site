@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import { meta } from "../../../content_option";
 import "./style.css";
 
-export const StampWorks = () => {
+export const Site = () => {
   return (
     <HelmetProvider>
       <Container className="About-header">
