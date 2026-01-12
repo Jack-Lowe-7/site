@@ -12,7 +12,7 @@ const introdata = {
         third: "cybersecurity enthusiast",
     },
     description: "Welcome to my portfolio - while my experience is not as large as others, it's constantly growing and improving.",
-    your_img_url: "https://github.com/Jack-Lowe-7/site/blob/main/my-react-app/src/assets/images/Me.png?raw=true",
+    your_img_url: "https://raw.githubusercontent.com/Jack-Lowe-7/site/refs/heads/main/my-react-app/src/assets/images/Me.jpg",
 };
 
 const dataabout = {
