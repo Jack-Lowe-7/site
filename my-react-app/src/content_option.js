@@ -11,7 +11,7 @@ const introdata = {
         second: "I code cool projects",
         third: "cybersecurity enthusiast",
     },
-    description: "Welcome to my portfolio - while my experience is not as large as others, it's constantly growing and improving.",
+    description: "Welcome to my portfolio. While my experience may not be extensive yet, it’s continuously growing and evolving.",
     your_img_url: "https://raw.githubusercontent.com/Jack-Lowe-7/site/refs/heads/main/my-react-app/src/assets/images/Me.jpg",
 };
 
@@ -57,11 +57,11 @@ const skills = [{
 
 const services = [{
         title: "Volenteering - The Scout Association",
-        description: "I volunteer at my local Scout group every Friday as a Young Leader, helping to plan and lead fun activities, boosting my leadership, teamwork, and communication skills. It's a really rewarding way to give back and make some cool memories!",
+        description: "I volunteer at my local Scout group every Friday - helping plan and lead sessions that boost my leadership, teamwork, and communication skills. It's a really rewarding way to give back - inspiring and educating young people. I've completed extensive training on everything from safeguarding to program planning & delivery. I also hold an enhanced DBS.",
     },
     {
         title: "Duke of Edinburgh's Award (Currently working on Gold)",
-        description: "I'm currently working towards completing my Gold DofE award with Explorers, having earned my bronze in 2022 and almost finsished the end of silver. On our silver expedition, we endured the 2nd worst weather our assessor had seen in 35 years but held strong and completed it.",
+        description: "I'm currently working towards completing my Gold DofE award with Explorers, having earned my bronze in 2022 and silver in 2025. On our silver expedition, we endured the 2nd worst weather our assessor had seen in 35 years but held strong and completed it.",
     },
 ];
 
