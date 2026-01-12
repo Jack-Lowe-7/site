@@ -196,6 +196,7 @@ section {
         height: 600px;
         min-height: 75vh;
         margin-bottom: 30px;
+        background-position: 50% 25%;
     }
     .intro_sec .h_bg-image .block {
         top: unset;
