@@ -71,7 +71,7 @@ const dataportfolio = [{
         link: "stampworks",
     },
 {
-    img: "https://github.com/Jack-Lowe-7/site/blob/main/my-react-app/src/assets/images/Site-Cover.png",
+    img: "https://raw.githubusercontent.com/Jack-Lowe-7/site/refs/heads/main/my-react-app/src/assets/images/Site-Cover.png",
     description: "This website!",
     link : "site",
 },
