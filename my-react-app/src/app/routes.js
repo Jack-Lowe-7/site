@@ -9,6 +9,7 @@ import { ContactUs } from "../pages/contact";
 import { About } from "../pages/about";
 import { Socialicons } from "../components/socialicons";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
+import { ExplorersSite } from "../pages/portfolio/Explorers Site";
 
 const AnimatedRoutes = withRouter(({ location }) => (
   <TransitionGroup>
@@ -27,6 +28,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/portfolio/stampworks" element={<StampWorks />} />
         <Route path="/portfolio/site" element={<Site />} />
+        <Route path="/portfolio/explorer-site" element={<ExplorersSite />} />
         <Route path="/contact" element={<ContactUs />} />
         <Route path="*" element={<Home />} />
       </Routes>
