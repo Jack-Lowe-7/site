@@ -55,7 +55,7 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <Link to="https://github.com/Jack-Lowe-7/site/raw/84685519db93654391326f473fe6b021a4f7fd19/Jack%20Lowe%20-%20CV.pdf">
+                  <Link to="https://raw.githubusercontent.com/Jack-Lowe-7/site/main/Jack%20Lowe.pdf">
                     <div id="button_p" className="ac_btn btn">
                       Download my CV
                       <div className="ring one"></div>
