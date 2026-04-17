@@ -78,7 +78,7 @@ const dataportfolio = [{
 {
     img: "https://raw.githubusercontent.com/Jack-Lowe-7/site/refs/heads/main/my-react-app/src/assets/images/WBESU-cover.png",
     description: "Whitley Bay Explorer Scouts Website",
-    link : "explorer-site",
+    link : "https://whitleybayexplorers.org.uk/",
 },
 ];
 
