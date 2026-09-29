@@ -17,7 +17,6 @@ const introdata = {
 
 const dataabout = {
     title: "A little bit about myself",
-    aboutme: "I'm Jack, I'm currently studying Networks and Cyber Security BSc (Hons) at Northumbria University. I've just finished studying A-Levels in Computer Science, Maths & Psychology at North East Futures UTC. I'm after a career in Computer Science, more specifically in Cybersecurity. Thanks to switching to the UTC I have had some amazing opportunities such as participating in a UK wide capture the flag competition ran by the National Centre for Cybersecurity in which we took home first place!",
 };
 
 //const worktimeline = [{
