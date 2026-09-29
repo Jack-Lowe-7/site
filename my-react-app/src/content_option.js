@@ -55,16 +55,6 @@ const skills = [{
     },
 ];
 
-const services = [{
-        title: "Volenteering - The Scout Association",
-        description: "I volunteer at my local Scout group every Friday as one of the Scouts Section Team Leads and also as a Trustee. I help plan and lead sessions that boost life skills for young people in my area - from leadership, teamwork, and communication to lighting fires and building shelters and everything in between! It's a really rewarding way to give back to my community - inspiring and educating young people. I've completed extensive training on everything from safeguarding to program planning & delivery. I also hold an enhanced DBS. <br><br> Through my role as Section Team Lead (Scouts) I have developed my team leadership skills alongside gaining experience in project planning and execution. Similarly, in my role as a Trustee I hold legal responsibility for the safe operation of the group in line with both our internal policy (POR) and UK Law.",
-    },
-    {
-        title: "Duke of Edinburgh's Award (Currently working on Gold)",
-        description: "I'm currently working towards completing my Gold DofE award through my Scout Network, having earned my bronze in 2022 and silver in 2025. On our silver expedition, we endured the 2nd worst weather our assessor had seen in 35 years but held strong and completed it.",
-    },
-];
-
 const dataportfolio = [{
         img: "https://raw.githubusercontent.com/Jack-Lowe-7/site/main/my-react-app/src/assets/images/StampWorks-Cover.jpg",
         description: "StampWorks - Project with the Department of Work and Pensions",
@@ -97,7 +87,6 @@ export {
     dataabout,
     dataportfolio,
     skills,
-    services,
     introdata,
     contactConfig,
     socialprofils,
