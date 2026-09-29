@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Jack Lowe",
     animated: {
-        first: "I love coding",
+        first: "Networks and Cyber Security Student",
         second: "I code cool projects",
-        third: "cybersecurity enthusiast",
+        third: "Cybersecurity Enthusiast",
     },
     description: "Welcome to my portfolio. While my experience may not be extensive yet, it’s continuously growing and evolving.",
     your_img_url: "https://raw.githubusercontent.com/Jack-Lowe-7/site/refs/heads/main/my-react-app/src/assets/images/Me.jpg",
@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "A little bit about myself",
-    aboutme: "I'm Jack, I've just finished studying A-Levels in Computer Science, Maths & Psychology at North East Futures UTC. I'm after a career in Computer Science, more specifically in Cybersecurity. Thanks to switching to UTC I have had some amazing opportunities such as participating in a UK wide capture the flag competition ran by the National Centre for Cybersecurity in which we took home first place!",
+    aboutme: "I'm Jack, I'm currently studying Networks and Cyber Security BSc (Hons) at Northumbria University. I've just finished studying A-Levels in Computer Science, Maths & Psychology at North East Futures UTC. I'm after a career in Computer Science, more specifically in Cybersecurity. Thanks to switching to the UTC I have had some amazing opportunities such as participating in a UK wide capture the flag competition ran by the National Centre for Cybersecurity in which we took home first place!",
 };
 
 //const worktimeline = [{
@@ -57,11 +57,11 @@ const skills = [{
 
 const services = [{
         title: "Volenteering - The Scout Association",
-        description: "I volunteer at my local Scout group every Friday - helping plan and lead sessions that boost my leadership, teamwork, and communication skills. It's a really rewarding way to give back - inspiring and educating young people. I've completed extensive training on everything from safeguarding to program planning & delivery. I also hold an enhanced DBS.",
+        description: "I volunteer at my local Scout group every Friday as one of the Scouts Section Team Leads and also as a Trustee. I help plan and lead sessions that boost life skills for young people in my area - from leadership, teamwork, and communication to lighting fires and building shelters and everything in between! It's a really rewarding way to give back to my community - inspiring and educating young people. I've completed extensive training on everything from safeguarding to program planning & delivery. I also hold an enhanced DBS. \n\n Through my role as Section Team Lead (Scouts) I have developed my team leadership skills alongside gaining experience in project planning and execution. Similarly, in my role as a Trustee I hold legal responsibility for the safe operation of the group in line with both our internal policy (POR) and UK Law.",
     },
     {
         title: "Duke of Edinburgh's Award (Currently working on Gold)",
-        description: "I'm currently working towards completing my Gold DofE award with Explorers, having earned my bronze in 2022 and silver in 2025. On our silver expedition, we endured the 2nd worst weather our assessor had seen in 35 years but held strong and completed it.",
+        description: "I'm currently working towards completing my Gold DofE award through my Scout Network, having earned my bronze in 2022 and silver in 2025. On our silver expedition, we endured the 2nd worst weather our assessor had seen in 35 years but held strong and completed it.",
     },
 ];
 
