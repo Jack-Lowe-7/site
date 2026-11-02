@@ -8,10 +8,10 @@ const introdata = {
     title: "I’m Jack Lowe",
     animated: {
         first: "Networks and Cyber Security Student",
-        second: "I code cool projects",
-        third: "Cybersecurity Enthusiast",
+        second: "Cybersecurity Enthusiast",
+        third: "Scout leader",
     },
-    description: "Welcome to my portfolio. While my experience may not be extensive yet, it’s continuously growing and evolving.",
+    description: "I'm Jack, a Networks & Cyber Security student at Northumbria University. Check out my portfolio to see what I've been getting up to:",
     your_img_url: "https://raw.githubusercontent.com/Jack-Lowe-7/site/refs/heads/main/my-react-app/src/assets/images/Me.jpg",
 };
 
